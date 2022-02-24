@@ -1,0 +1,11 @@
+#Header{
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right, rgb(69, 34, 194), rgb(118, 6, 133));
+    border-style: double;
+    border-color: black;
+}
+
+#pawprints{
+    text-align: center;
+}
