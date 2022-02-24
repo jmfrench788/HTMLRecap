@@ -6,6 +6,29 @@
     border-color: black;
 }
 
-#pawprints{
+.allie{
+    height: 400px;
+    width: 400px;
+    border-style: double;
+    border-color: black;
+}
+
+.news{
     text-align: center;
+}
+
+.date{
+    text-align: left;
+}
+
+.list{
+    text-align: left;
+}
+
+.form{
+    background-color: purple;
+    color: white;
+    border-style: double;
+    border-color: black;
+
 }
